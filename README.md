@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello, I'm Drew Federspiel 👋
+ I am an Electrical and Computer Engineering student studying at the University of Colorado Boulder. 
 
 <!--
 **drewJfed/drewJfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
