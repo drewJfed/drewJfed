@@ -3,7 +3,9 @@
  
  ![CU Boulder](https://cubuffs.com/images/2004/3/15/NRJOTKEWMFPEKJK.20040315193610.jpg)
 
+I enjoy making embedded systems. I like being able to build and program projects on my own.
 
+![ArduinoPic](https://www.thegeekpub.com/wp-content/uploads/2019/01/Arduino-Traffic-Light-Project-0001-hero-scaled-1.jpg)
 
 
 <!--
