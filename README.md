@@ -1,5 +1,6 @@
 # Hello, I'm Drew Federspiel 👋
  I am an Electrical and Computer Engineering student studying at the University of Colorado Boulder. 
+ ![CU Boulder](https://cubuffs.com/images/2004/3/15/NRJOTKEWMFPEKJK.20040315193610.jpg)
 
 <!--
 **drewJfed/drewJfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
